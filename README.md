@@ -7,4 +7,4 @@ This project demonstrates setting up a CI/CD pipeline using GitHub Actions to au
 ## DockerHub Image
 Below is a screenshot of the Docker image published in my DockerHub account:
 
-![DockerHub Image] tags.png
+![DockerHub Image](tags.png)
